@@ -1,0 +1,22 @@
+{
+  "inventory": [
+    {
+      "id": 1,
+      "name": "Áo the north face",
+      "quantity": 100,
+      "price": 20.99
+    },
+    {
+      "id": 2,
+      "name": "Tee Supper Gucci",
+      "quantity": 50,
+      "price": 15.49
+    },
+    {
+      "id": 3,
+      "name": "Sweater cho mùa đông",
+      "quantity": 75,
+      "price": 30.0
+    }
+  ]
+}

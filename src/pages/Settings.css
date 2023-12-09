@@ -1,0 +1,28 @@
+/* Settings.css */
+
+.settings-card {
+  width: 300px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.setting {
+  margin-bottom: 15px;
+}
+
+label {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+select {
+  padding: 5px;
+}
